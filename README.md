@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## Controle de Fluxo - Desafio - DIO
 - projeto para entregar
@@ -47,3 +48,6 @@ Localização do desafio:
 </div>
 
 
+=======
+# controle-candidatos
+>>>>>>> 0658c83efbb325883a9ff5ba90bac67e7931d236
